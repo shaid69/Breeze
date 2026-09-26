@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  --font-serif: "Playfair Display", Georgia, serif;
+  --font-sans: "Plus Jakarta Sans", system-ui, -apple-system, sans-serif;
+  --color-gold-50: #fbf8ee;
+  --color-gold-100: #f5eed3;
+  --color-gold-300: #e2cb8b;
+  --color-gold-400: #d4b358;
+  --color-gold-500: #c59b2d;
+  --color-gold-600: #a97e20;
+}
+
+body {
+  font-family: var(--font-sans);
+  background-color: #0d1214;
+  color: #e5e2db;
+}
+
+h1, h2, h3, .font-serif {
+  font-family: var(--font-serif);
+}

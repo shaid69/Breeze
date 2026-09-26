@@ -1,0 +1,6 @@
+{
+  "name": "Breeze Restaurant - Nikunja-2, Dhaka",
+  "description": "Exquisite fine dining experience in Nikunja-2, Dhaka. Discover signature dishes, reserve a table, and explore our contemporary cuisine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
